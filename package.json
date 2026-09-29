@@ -1,7 +1,5 @@
 {
-  "name": "our-sunset",
-  "private": true,
   "dependencies": {
-    "@neondatabase/serverless": "^0.10.4"
+    "@netlify/database": "^1.0.0"
   }
 }
